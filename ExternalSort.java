@@ -254,13 +254,6 @@ public class ExternalSort {
 		sort(f1, f2);
 		System.out.println("The checksum is: "+checkSum(f1));
 		//System.out.println("The checksum is: c2cb56f4c5bf656faca0986e7eba384");
-		
-		//C:/Users/Joshua/Desktop/Comsci/New folder/Summer16/test-suite/test1a.dat
-		//C:/Users/Joshua/Desktop/Comsci/New folder/Summer16/test-suite/test1b.dat
-		
-		//sort("C:/Users/Joshua/Desktop/Comsci/New folder/Summer16/example.txt",
-		//		"C:/Users/Joshua/Desktop/Comsci/New folder/Summer16/blubber.txt");
-		
 	}
 
 }
